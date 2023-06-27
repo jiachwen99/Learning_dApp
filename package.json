@@ -1,0 +1,27 @@
+{
+  "name": "jc-smart-contract",
+  "version": "1.0.0",
+  "description": "First Smart Contract By JC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiachwen99/jc-smart-contract.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiachwen99/jc-smart-contract/issues"
+  },
+  "homepage": "https://github.com/jiachwen99/jc-smart-contract#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "ethers": "^5.0.0",
+    "hardhat": "^2.16.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
