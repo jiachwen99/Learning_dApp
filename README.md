@@ -1,2 +1,2 @@
-# jc-smart-contract
-First Smart Contract Build
+# Learning_dApp
+First dApp Build From JC
