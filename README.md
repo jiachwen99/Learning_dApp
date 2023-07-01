@@ -1,2 +1,2 @@
 # Learning_dApp
-First dApp Build From JC
+This dApp project is built with Solidity and Alchemy.
